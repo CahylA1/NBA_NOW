@@ -15,6 +15,9 @@ Screenshots
 ![Screen Shot 2021-09-23 at 11 32 02 PM](https://user-images.githubusercontent.com/87740448/134676368-c4ca37f6-95cb-4e3d-8de3-ce463cbce520.png)
 ![Screen Shot 2021-09-23 at 11 37 38 PM](https://user-images.githubusercontent.com/87740448/134676376-1f4d1319-9aba-4f58-873f-f4578c6c4293.png)
 
+[Get Started]
+
+---> https://cahyla1.github.io/NBA_NOW/ <---
 
 [Future Enhancements ]
 
