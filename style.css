@@ -1,0 +1,51 @@
+* {
+  margin: 50px;
+  display: center ;
+  background-color: rgb(214, 208, 208);
+  
+
+
+
+}
+
+h1 {
+  color: blue;
+  font-size: 50px;
+  
+}
+
+h3 {
+  color: white;
+  display: center;
+  text-align: center;
+  font-size: 30px;
+  background-color:red;
+  border-radius: 10px;
+  
+}
+
+img {
+  border-radius: 50%;
+}
+
+input {
+  background-color: White;
+  color: black ;
+  border-radius: 10px;
+
+  
+}
+
+main, form {
+  text-align: center;
+}
+
+
+
+p {
+  display: grid;
+}
+
+body {
+  align-items: center;
+}
